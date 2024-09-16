@@ -23,7 +23,9 @@
 
 ### 👨‍💻 Sobre Mim
 
-🔭 **Atuação Profissional**: Analista de dados com foco na construção e manutenção de relatórios e dashboards utilizando **Spotfire** e **Power BI**. Experiência em automação e melhorias de pipelines de dados, com destaque no uso de **Python** e **KNIME Analytics**.
+🔭 **Atuação Profissional**: 
+
+Analista de dados com foco na construção e manutenção de relatórios e dashboards utilizando **Spotfire** e **Power BI**. Experiência em automação e melhorias de pipelines de dados, com destaque no uso de **Python**, **SQL** e **KNIME Analytics**.
 
 📊 **Habilidades Técnicas**:  
 - **SQL** para consultas e manipulação de dados
