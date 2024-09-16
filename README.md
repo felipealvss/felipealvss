@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipealvss)
 
 - 🔭 Analista de dados com foco maior em construção/manutenção de relatórios e dashboards (atualmente Spotfire e Power BI), automação e melhoridas de pipeline de dados (atualmente utilizando Python e KNIME Analytics), possuo conhecimento em consultas SQL e em Web Scrapping com Requests e Selenium.
-- 📚 Graduado em Analise de sistemas, atualmente cursando MBA em Engenharia de dados.
+- 📚 Graduado em Analise de sistemas (Unifametro), atualmente cursando MBA em Engenharia de dados (Unifor).
 - 🌱 Estou aprendendo e aplicando meu conhecimento em projetos com Kafka e Spark, e também com Docker.
 
 ##
