@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1> 
+  <a href="https://www.linkedin.com/in/felipealvss/" style="color: #f00 !important; text-decoration: none; color: inherit;">
+    <span>Felipe Alves da Silva</span>
+  </a>
+</h1>
 
-<!--
-**felipealvss/felipealvss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Analyst | SQL - Python | Data analysis - Data modeling - Data engineering
 
-Here are some ideas to get you started:
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/felipe_alvessilva)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipealvss/)
+[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:felipealvss.95@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+85+989599637)  
+[![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipealvss)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Analista de dados com foco maior em construção/manutenção de relatórios e dashboards (atualmente Spotfire e Power BI), automação e melhoridas de pipeline de dados (atualmente utilizando Python e KNIME Analytics), possuo conhecimento em consultas SQL e em Web Scrapping com Requests e Selenium.
+- 📚 Graduado em Analise de sistemas, atualmente cursando MBA em Engenharia de dados.
+- 🌱 Estou aprendendo e aplicando meu conhecimento em projetos com Kafka e Spark, e também com Docker.
+
+##
+
+<div>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=felipealvss&show_icons=true&theme=radical"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvss&theme=radical&layout=compact"/>
+</div>
+
