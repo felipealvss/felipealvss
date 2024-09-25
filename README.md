@@ -84,8 +84,8 @@ Se você tiver interesse em discutir projetos, colaborar ou apenas trocar ideias
 
 ### ⚡ Fatos Interessantes
 
-- 💡 Adoro aprender novas tecnologias e aplicar esse conhecimento em projetos práticos.
-- 🎯 Focado em melhorar habilidades de engenharia de dados e automação de processos.
-- 📚 Sempre em busca de oportunidades para colaborar com a comunidade de código aberto.
+- 🎼 Sou um amante de boa música e toco saxofone, inclusive dou aulas de sax 🎷!
+- 👨‍🍳 Gosto muito de cozinhar, é algo que faço para relaxar e reunir pessoas ao meu redor em momentos especiais.
+- 🎮 Constumo curtir momentos livres com bons jogos de ação e RPG, como Elden Ring, Dragon's Dogma, Nioh 2, etc.
 
 ---
