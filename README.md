@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Data Engineer| SQL - Python - RPA | Data Analysis - Data Modeling - Data Engineering</b>
+  Data Engineer | SQL - Python - RPA | Data Analysis - Data Modeling - Data Engineering</b>
 </p>
 
 <div align="center">
