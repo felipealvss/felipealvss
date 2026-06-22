@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <b>Analyst | SQL - Python | Data Analysis - Data Modeling - Data Engineering</b>
+  Data Engineer| SQL - Python - RPA | Data Analysis - Data Modeling - Data Engineering</b>
 </p>
 
 <div align="center">
@@ -25,7 +25,7 @@
 
 🔭 **Atuação Profissional**: 
 
-Analista de dados com foco na construção e manutenção de relatórios e dashboards utilizando **Spotfire** e **Power BI**. Experiência em automação e melhorias de pipelines de dados, com destaque no uso de **Python**, **SQL** e **KNIME Analytics**.
+Engenheiro de dados com foco na construção e manutenção de pipelines de dados e dashboards. Experiência em automação e desenvolvimento de RPAs e estratégias de processos, com destaque no uso de **Python**, **SQL** e **KNIME Analytics**.
 
 📊 **Habilidades Técnicas**:  
 - **SQL** para consultas e manipulação de dados
